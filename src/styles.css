@@ -278,7 +278,7 @@ textarea {
   flex-wrap: wrap;
   height: 3rem;
   width: 100%;
-  background: white;
+  background: #dddddd;
   transition: all ease-out 150ms;
 }
 
@@ -327,7 +327,7 @@ textarea {
 }
 
 .list-item.TASK_ARCHIVED input[type="text"] {
-  color: #a0aec0;
+  color: #4a5568;
   text-decoration: line-through;
 }
 
