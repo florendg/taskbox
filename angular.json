@@ -81,6 +81,7 @@
           "builder": "@storybook/angular:start-storybook",
           "options": {
             "browserTarget": "taskbox:build:development",
+            "docsMode": true,
             "port": 6006
           }
         },

@@ -11,6 +11,7 @@ import * as TaskStories from '../task/task.component.stories'
 export default {
   component: TaskListComponent,
   title: 'Task-List',
+  tags: ['autodocs'],
   decorators: [
     moduleMetadata({
       declarations: [TaskListComponent, TaskComponent],
